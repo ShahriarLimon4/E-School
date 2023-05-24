@@ -1,0 +1,414 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .logo{
+        width: 160px;
+    }
+    .c-nav{
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+    .c-menu-item li{
+        margin-left: 10px;
+    }
+    .btn-signin{
+         margin-top: 5px;
+    }
+    .btn-signin{
+        width: 80px;
+        height: 40px;
+        
+    }
+    /* banner start  */
+    .banner{
+        padding: 20px 0px 50px;
+        
+    }
+    .banner-txt{
+        margin-top: 20px;
+        text-align: center;
+        
+    }
+    
+    .b-txt-1{
+        
+    }
+    
+    .banner-txt h1{
+        text-align: center;
+        margin: 10px 0;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+    .b-txt-2{
+       
+    }
+    
+    .b-txt-3{
+        line-height: 30px;
+    }
+    
+    /* banner end  */
+    /* feature start  */
+    .feature{
+        padding: 0px 0 60px;
+    }
+    
+    .single-feature{
+        margin: 20px 20px 0 20px;
+       padding: 45px;
+    }
+    .f-img{
+        margin-bottom: 15px;
+    }
+    .f-img img{
+        width: 25%;
+    }
+    
+    /* feature end  */
+    /* card start  */
+    .online-course,.details,.testimonial{
+        padding: 0px 0px 60px;
+    }
+
+    .common-header{}
+
+    .card-item{
+        margin-top: 30px;
+        padding: 20px 20px; 
+    }
+
+    .c-img{
+        margin-bottom: 15px;
+    }
+
+    .c-txt{
+        margin-bottom: 15px;
+    }
+
+    .btn-buy-now{
+        margin-bottom: 15px;
+    }
+
+    .card-footer{}
+
+    .c-left{
+        margin-right: 50px;
+    }
+
+    .c-right{
+        float: left !important;
+        
+    }
+
+        /* card end  */
+        /* tetstimonial start  */
+
+    .testimonial{}
+
+    .cuctom-carosul{
+        margin-top: 30px;
+    }
+
+    .carousel-indicators{
+        bottom: -60px;
+    }
+
+    .carousel-indicators [data-bs-target]{
+        width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #7f8484;
+    }
+
+    .slider-image{}
+
+    .slider-text{
+        margin-top: 15px;
+    }
+    .slider-text p{
+        text-align: center;
+    }
+    /* tetstimonial end  */
+    /* details start */
+    .details {
+        padding: 35px 0 25px;
+      }
+      .d_text {
+        margin-bottom: 20px;
+        padding: 0px 0px 0;
+        text-align: center;
+      }
+      .c_list {
+        margin-left: 0px;
+        text-align: center;
+      }
+      .d_text p {
+        font-size: 15px;
+      }
+      .c_list ul li h3 {
+        font-size: 17px;
+        line-height: 15px;
+      }
+      .c_list ul li a {
+        font-size: 15px;
+        line-height: 25px;
+      }
+      /* details end */
+      /* footer start */
+      .p_text p {
+        font-size: 15px;
+      }
+      /* footer end */
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .c-nav{
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+    .c-menu-item li{
+        margin-left: 10px;
+    }
+    .btn-signin{
+        margin-top: 5px;
+    }
+    .btn-signin{
+        width: 85px;
+        height: 40px;
+        
+    }
+    /* banner start  */
+    .banner{
+        padding: 20px 0px 50px;
+        
+    }
+    .banner-txt{
+        margin: 25px 25px 0 25px;
+        text-align: center;
+        
+    }
+    
+    .b-txt-1{
+        
+    }
+    
+    .banner-txt h1{
+        text-align: center;
+        margin: 10px 0;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+    .b-txt-2{
+       
+    }
+    
+    .b-txt-3{
+        line-height: 25px;
+    }
+    
+    /* banner end  */
+    /* feature start  */
+    .feature{
+        padding: 0px 0 60px;
+    }
+    
+    .single-feature{
+        margin-top: 25px;
+        padding: 45px;
+    }
+    .f-img{
+        margin-bottom: 15px;
+        height: 60px;
+    }
+    .f-img img{
+        width: 25%;
+    }
+    
+    /* feature end  */
+    .online-course,.details,.testimonial{
+        padding: 0px 0px 60px;
+    }
+      /* details start */
+  .details {
+    padding: 45px 0 45px;
+  }
+  .d_text {
+    margin-bottom: 35px;
+    padding: 0 65px 0;
+    text-align: center;
+  }
+  .c_list {
+    margin-left: 25px;
+  }
+  /* details end */
+  /* footer start */
+  .p_text p {
+    font-size: 15px;
+  }
+  /* footer end */
+    
+   
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* common section  */
+.online-course,.details,.testimonial{
+    padding: 30px 0 40px;
+}
+/* common section  */
+
+    .c-nav{
+        padding-top: 15px;
+    
+    }
+    .c-menu-item li{
+        margin-top: 10px;
+        margin-left: 10px;
+    
+    }
+    .btn-signin{
+        margin-top: 10px;
+    }
+    .btn-signin{
+        width: 90px;
+        height: 40px;
+        
+    }
+     /* banner start  */
+
+.banner{
+    padding: 30px 0px 60px;
+   
+}
+.banner-txt{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.b-txt-1{
+   
+}
+
+.banner-txt h1{
+    line-height: 60px;
+    text-align: center;
+    margin: 20px 0px ;
+}
+
+.b-txt-2{
+    
+}
+
+.b-txt-3{
+    line-height: 36px;
+    padding: 0px 40px;
+}
+
+
+
+/* banner end  */
+/* feature start  */
+.feature{
+     padding: 30px 0 40px; 
+}
+
+
+.single-feature{
+    padding: 80px 25px;
+   
+  
+}
+.card-item{
+    margin-top: 40px;
+}
+.f-img{
+
+}
+
+/* feature end  */
+
+.testimonial{
+    padding-bottom: 70px;
+}
+
+.cuctom-carosul{
+    margin-top: 25px;
+}
+
+.carousel-indicators{
+    bottom: -60px;
+}
+
+.slider-image{}
+
+.slider-text{
+    margin-top: 15px;
+}
+.slider-text p{
+    
+}
+  /* details start */
+  .details {
+    padding: 50px 0 60px;
+  }
+  .d_text {
+    margin-bottom: 50px;
+    padding: 0 120px 0;
+    text-align: center;
+  }
+  .c_list {
+    margin-left: 40px;
+  }
+  /* details end */
+    
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* online course start  */
+    .card-footer{}
+    .card-footer .list-inline-item:not(:last-child){
+        margin: 0px;
+    }
+    .card-footer li img{
+        width: 80%;
+       
+    }
+    .card-footer span{
+        font-size: 14px;
+    }
+    /* online course end  */
+
+    /* details start */
+  .c_list {
+    margin-left: 35px;
+  }
+  /* details end */
+
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  
+   
+
+
+
+
+}
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+}

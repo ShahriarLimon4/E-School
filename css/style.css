@@ -1,0 +1,242 @@
+/* common code start  */
+body{
+font-family: 'Poppins', sans-serif;
+font-size:16px;
+font-weight: 400;
+color: #000000;
+}
+    /* button   */
+    .btn-common{
+        background-color: #21B573;
+        color: white;
+        border-radius: 33px;
+    }
+    .btn-common:hover{
+        background-color: #FD511A;
+        color: white;
+    }
+/* common code end  */
+
+/* header start  */
+header{
+    background-color: #d9fcd9;
+}
+
+.c-nav{
+    padding-top: 33px;
+
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+  }
+
+.menu{}
+
+.c-menu-item{}
+
+.c-menu-item li{
+    margin-right: 50px;
+
+}
+.c-menu-item a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    
+    
+
+}
+
+.c-menu-item a:hover{
+    color: #FD511A;
+}
+
+.btn-signin{
+    width: 100px;
+    height: 40px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+}
+
+/* banner start  */
+
+.banner{
+    padding: 60px 0px 100px;
+    background-color: #d9fcd9;
+}
+.banner-txt{
+    margin-top: 30px;
+    
+}
+
+.b-txt-1{
+    color: #FD511A;
+}
+
+.banner-txt h1{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.b-txt-2{
+    color: #21B573;
+}
+
+.b-txt-3{
+    line-height: 36px;
+}
+
+
+
+/* banner end  */
+/* header end  */
+/* feature start  */
+.feature{
+    padding: 60px 0 100px;
+}
+
+.single-feature{
+    background-color: #d9fcd9;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 50px 15px;
+    transition: .3s;
+}
+
+.single-feature:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);       
+}
+
+.f-img{
+    margin-bottom: 20px;
+}
+
+.f-img img{}
+
+.common-h2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.common-p{
+    line-height: 24px;
+}
+
+
+/* feature END    */
+
+.online-course,.details,.testimonial{
+    padding: 0px 0px 100px;
+}
+
+.common-header{}
+
+.card-item{
+    margin-top: 65px;
+    padding: 25px 20px;
+    background-color: #d9fcd9;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    
+}
+
+.c-img{
+    margin-bottom: 20px;
+}
+
+.c-txt{
+    margin-bottom: 20px;
+}
+
+.btn-buy-now{
+    margin-bottom: 20px;
+}
+
+.card-footer{}
+
+.c-left{}
+
+.c-right{
+    
+}
+
+.b{
+    border: 1px solid ;
+}
+/* tetstimonial start  */
+
+.testimonial{}
+
+.cuctom-carosul{
+    margin-top: 70px;
+}
+
+.carousel-indicators{
+    bottom: -80px;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #7f8484;
+}
+
+.slider-image{}
+
+.slider-text{
+    margin-top: 15px;
+}
+.slider-text p{
+    line-height: 30px;
+}
+/* tetstimonial end  */
+/* details start  */
+.details{
+    padding: 55px 0 70px;
+    background-color: #282531;
+  }
+  .d_text{}
+  .d_text p{
+    color: white;
+  }
+  .c_list{
+    margin-left: 60px;
+  }
+  .c_list ul{}
+  .c_list ul li{}
+  .c_list ul li h3{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    color: white;
+  }
+  .c_list ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: white;
+  }
+  /* details start */
+  /* footer start */
+  footer{
+    padding-bottom: 30px;
+    background-color: #282531;
+  }
+  .p_text{}
+  .p_text p{
+    line-height: 30px;
+    color: white;
+  }
+  /* footer end */
+
